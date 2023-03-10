@@ -1,5 +1,7 @@
 # Just another engineer
-I'm a software engineer based in The Netherlands, public projects on here are usually quick and dirty projects unless specified otherwise, but feel free to browse, use, and improve them within the bounds of their licenses.
+I'm a software engineer based in The Netherlands, public projects on here are usually quick and dirty projects unless specified otherwise, but feel free to browse, use, and improve them within the bounds of their licenses. Aspiring (official) architect, got the knowledge, just not the papers 🙃
+
+Looking for open source projects, as well as more architect knowledge. Please reach out!
 
 ## Contact
 <a href="https://discordapp.com/users/110811348274810880">
